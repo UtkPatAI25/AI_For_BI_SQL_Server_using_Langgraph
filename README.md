@@ -1,6 +1,6 @@
 # AI For BI SQL Server using LangGraph
 
-This repository provides an advanced, agent-powered T-SQL assistant for Microsoft SQL Server 2019, leveraging LangChain, LangGraph, Azure OpenAI, and Python data visualization. The assistant can interpret natural language business intelligence (BI) questions, generate optimized SQL queries, execute them, explain results, and produce charts when possible.
+This repository provides an advanced, AI agent-powered T-SQL assistant for Microsoft SQL Server 2019, leveraging LangChain, LangGraph, Azure OpenAI, and Python data visualization. The assistant can interpret natural language business intelligence (BI) questions, generate optimized SQL queries, execute them, explain results, and produce charts when possible.
 
 ## Features
 
