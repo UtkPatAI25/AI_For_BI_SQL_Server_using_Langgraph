@@ -127,7 +127,6 @@ elif final_state.get("viz_reason"):
 ## Limitations
 
 - Requires up-to-date schema metadata in `[schema_metadata]` table.
-- Only supports SQL Server 2019 (syntax and features).
 - LLM accuracy depends on prompt quality and model configuration.
 - Visualization is limited to what the LLM can infer from sample data and columns.
 
