@@ -1,0 +1,15 @@
+requests
+python-dotenv
+gradio
+pypdf
+openai
+openai-agents
+langchain
+langchain-openai
+langchain-text-splitters
+pyodbc
+langchain-community
+matplotlib
+langgraph
+langchain_core
+pandas
