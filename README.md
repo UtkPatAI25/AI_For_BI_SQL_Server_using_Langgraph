@@ -97,7 +97,8 @@ elif final_state.get("viz_reason"):
 
 ### Flow Diagram
 
-![image.png](attachment:image.png)
+<img width="467" height="597" alt="image" src="https://github.com/user-attachments/assets/27ae0a97-7da5-4ce6-8a51-67fbab0561a6" />
+
 
 ### Node Details
 
